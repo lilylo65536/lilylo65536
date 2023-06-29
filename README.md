@@ -1,4 +1,4 @@
-this is for SDM log files
+null temporarily
 
 <!---
 lilylo65536/lilylo65536 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
